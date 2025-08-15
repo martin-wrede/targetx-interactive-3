@@ -1,0 +1,112 @@
+[
+  {
+    "gallery_image_title": "AI Assistent",
+    "gallery_images": 3,
+    "gallery_image_names": [
+      "/Home_01.jpg", "/Home_02.jpg", "/Home_03.jpg"
+    ],
+    "gallery_image_title2": "",
+    "sidebar_h2": "Die meisten Menschen scheitern nicht an mangelnder Produktivität, sondern daran, emotional mit ihren Zielen verbunden zu bleiben.",
+    "sidebar_image": "",
+    "sidebar_text": "",
+    "content_h1": "Bleiben Sie auf Kurs mit einem AI Accountability Coach",
+    "content_h1_text": "Accountability AI für 19 €/Monat",
+    "content_h2": "",
+    "content_h2_sub": "",
+    "content_h2_image": "",
+    "content_h2_text1": "",
+    "content_h2_text2": "",
+    "button1": "Starte jetzt",
+    "button1_url": "/how-it-works"
+  },
+  {
+    "gallery_image_title": "Wie es geht",
+    "gallery_images": 1,
+    "sidebar_h2": "Wie es geht",
+    "sidebar_image": "/howitworks.png",
+    "sidebar_text": "",
+    "content_chapter": [
+      {
+        "content_h1":  "Wie es geht",
+        "content_h1_text": "",
+        "content_h2": "AI Accountability Agent",
+        "content_h2_sub": "um Sie zu motivieren, Ihre Ziele zu erreichen:",
+        "content_h2_image": "",
+        "content_h2_text1": "1. Geben Sie Ihre Idee ein",
+        "content_h2_text2": "2. Erhalten Sie eine Analyse",
+        "content_h2_text3": "3. Sie erhalten einen für Ihren persönlichen Termin optimierten Plan",
+        "content_h2_text4": "4. Täglich motiviert werden",
+        "content_h2_text5": "5. Erreichen Sie Ihre Ziele",
+        "button": "Fallstudie öffnen",
+        "button_url": ""
+      }
+    ]
+  },
+  {
+    "gallery_image_title": "Starte den Planer",
+    "gallery_images": 0,
+    "gallery_image_names": [
+      ""
+    ],
+    "sidebar_h2": "",
+    "sidebar_image": "",      
+    "sidebar_text": "",
+        "content_chapter": [
+      {
+    "content_h1": "Starte den Planer",
+    "content_h1_text": "",
+    "content_h1_2": "Optionale Tools / Workflow",
+    "content_h2": "Design Thinking Workflow",
+    "content_h2_sub": "",
+    "content_h2_image": "",
+    "content_h2_text1": "",
+    "content_h2_text2": "",
+    "button1": "",
+    "button1_url": ""
+      }
+    ]
+  },
+   {
+    "gallery_image_title": "Tägliche Aufgaben & Motivation",
+    "gallery_images": 0,
+    "gallery_image_names": [""
+    ],
+    "sidebar_h2": "",
+    "sidebar_image": "/motivation-daily.png",
+    "sidebar_text": "",
+        "content_chapter": [
+      {
+    "content_h1": "Tägliche Aufgaben",
+    "content_h1_text": "",
+    "content_h2": "Tägliche Aufgaben & Motivation",
+    "content_h2_sub": "",
+    "content_h2_image": "",
+    "content_h2_text1": "",
+    "content_h2_text2": "",
+    "button1": "",
+    "button1_url": ""
+      }
+    ]
+  },
+   {
+    "gallery_image_title": "Über Mich",
+    "gallery_images": 0,
+    "gallery_image_names": [""],
+    "sidebar_h2": "",
+    "sidebar_image": "/contact-iot-1024x611.jpg",
+    "sidebar_text": "",
+        "content_chapter": [
+      {
+    "content_h1": "Über Mich",
+    "content_h1_text": "Sie können mich hier kontaktieren:",
+    "content_h2": "",
+    "content_h2_sub": "",
+    "content_h2_image": "",
+    "content_h2_text1": "Text",
+    "content_h2_text2": "",
+    "button1": "",
+    "button1_url": ""
+      }
+    ]
+  }
+]
