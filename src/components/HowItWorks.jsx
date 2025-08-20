@@ -18,12 +18,12 @@ export default function HowItWorks() {
         <h2>{chapter.content_h2}</h2>
          
         <span>{chapter.content_h2_sub}</span> <br/><br/>
-     <ol>
-     <li>  <span>{chapter.content_h2_text1}</span> <br/> </li> 
-          <li>   <span>{chapter.content_h2_text3}</span> <br/> </li> 
-         <li>     <span>{chapter.content_h2_text4}</span><br/> </li> 
-          <li>     <span>{chapter.content_h2_text5}</span> <br/> </li> 
-      </ol>
+      
+      <span>{chapter.content_h2_text1}</span> <br/> 
+             <span>{chapter.content_h2_text3}</span> <br/> 
+               <span>{chapter.content_h2_text4}</span><br/>
+               <span>{chapter.content_h2_text5}</span> <br/>  
+      
       <br /> 
       </div>
     ))
