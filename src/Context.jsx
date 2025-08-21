@@ -29,8 +29,8 @@ function ContextProvider({ children }) {
     // Fetch first data file
     const getData = async () => {
       
-    const url = `${process.env.PUBLIC_URL}./locales/data2-${language}.json`;
-   //   const url = `./locales/data2-${language}.json`;
+   // const url = `${process.env.PUBLIC_URL}./locales/data2-${language}.json`;
+      const url = `./locales/data2-${language}.json`;
       try {
         setLoading(true);
         const response = await fetch(url);
